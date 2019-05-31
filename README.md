@@ -36,7 +36,6 @@ cho nhà hàng.
 dạng.
 - Dễ quản lý, giám sát cửa hàng tổng thể và từ xa hơn.
 
-<img src="<?php echo get_stylesheet_directory_uri()?>/61517859_1698368733599060_6041314970082213888_n.png">
 
 # CHỨC NĂNG
 - Admin có thể quản lý  thêm/bớt đồ ăn, giá tiền, sửa đổi mặt hàng
@@ -55,17 +54,21 @@ dạng.
 - MAMP Server
 - LAMP Server
 
-#Installation Steps
-1. Download zip file and Unzip file on your local server.
-2. Put this file inside "c:/wamp/www/" .
-3. Database Configuration
-Open phpmyadmin
-Create Database named food.
-Import database food.sql from downloaded folder(inside database)
-4. Open Your browser put inside "http://localhost/OnlineFoodordering system/"
+#Các bước cài đặt
+1. Tải xuống tệp zip và giải nén tệp trên máy chủ cục bộ của bạn. 
+2. Đặt tệp này vào trong "c: / wamp / www /". 
+3. Cấu hình cơ sở dữ liệu 
 
-Admin Login Details
+Mở phpmyadmin 
 
-Login Id: root
+Tạo cơ sở dữ liệu có tên là  thực phẩm . 
 
-Password: toor
+Nhập cơ sở dữ liệu food.sql từ thư mục đã tải xuống (bên trong cơ sở dữ liệu) 
+
+4. Mở Trình duyệt của bạn đặt bên trong "http://localhost/OnlineFoodorderingsystem/"
+
+Quản trị viên 
+
+Id đăng nhập: root
+
+Mật khẩu: toor
