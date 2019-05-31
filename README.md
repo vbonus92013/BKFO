@@ -36,7 +36,7 @@ cho nhà hàng.
 dạng.
 - Dễ quản lý, giám sát cửa hàng tổng thể và từ xa hơn.
 
-<img src="https://imgur.com/NA5dhms">
+img src="https://imgur.com/NA5dhms"
 
 # CHỨC NĂNG
 - Admin có thể quản lý  thêm/bớt đồ ăn, giá tiền, sửa đổi mặt hàng
