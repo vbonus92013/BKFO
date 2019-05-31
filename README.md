@@ -35,7 +35,9 @@ cho nhà hàng.
 - Thuận tiện hơn với khách hàng, nhanh, dễ sử dụng và có thể yêu cầu đa
 dạng.
 - Dễ quản lý, giám sát cửa hàng tổng thể và từ xa hơn.
+
 <img src="https://imgur.com/NA5dhms">
+
 # CHỨC NĂNG
 - Admin có thể quản lý  thêm/bớt đồ ăn, giá tiền, sửa đổi mặt hàng
 - Quản lý đơn hàng, xóa đơn hàng
