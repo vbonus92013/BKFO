@@ -1,13 +1,4 @@
 # BKFO - BK Food Orderer
-# GIỚI THIỆU
-- Phần mềm quản lý đóng vai trò
-quan trọng trong tài chính, ngân
-hàng, giáo dục và thương mại…
-- Rút ngắn thời gian làm việc, tăng
-độ chính xác và phần tăng giá tị
-kinh tế.
-=> Phần mềm quản lý dần thay
-thế cho cách quản lý truyền thống.
 # ĐẶT VẤN ĐỀ
 - Quản lý nhà hàng là một quy
 trình phức tạp và gặp nhiều khó
@@ -65,7 +56,7 @@ Tạo cơ sở dữ liệu có tên là  thực phẩm .
 
 Nhập cơ sở dữ liệu food.sql từ thư mục đã tải xuống (bên trong cơ sở dữ liệu) 
 
-4. Mở Trình duyệt của bạn đặt bên trong "http://localhost/OnlineFoodorderingsystem/"
+4.Mở Trình duyệt của bạn đặt bên trong "http://localhost/OnlineFoodorderingsystem/"
 
 Quản trị viên 
 
