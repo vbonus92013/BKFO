@@ -47,7 +47,7 @@ dạng.
 - Đặt tệp này vào trong "c: / wamp / www /". 
 - Cấu hình cơ sở dữ liệu 
 
- Mở phpmyadmin
+ Mở phpmyadmin.
  
  Tạo cơ sở dữ liệu có tên là  thực phẩm .
  
