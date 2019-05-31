@@ -18,7 +18,6 @@ và khó khăn trong việc tiếp cận và
 phục vụ khách hàng, sai sót…
 ==> Phần mềm quản lý bán hàng
 cho nhà hàng.
-
 # MỤC ĐÍCH
 - Hệ thống đặt đồ ăn, thanh toán cho nhà hàng:
 - Giải quyết được vấn đề nhân lực và tài chính.
@@ -26,8 +25,6 @@ cho nhà hàng.
 - Thuận tiện hơn với khách hàng, nhanh, dễ sử dụng và có thể yêu cầu đa
 dạng.
 - Dễ quản lý, giám sát cửa hàng tổng thể và từ xa hơn.
-
-
 # CHỨC NĂNG
 - Admin có thể quản lý  thêm/bớt đồ ăn, giá tiền, sửa đổi mặt hàng
 - Quản lý đơn hàng, xóa đơn hàng
