@@ -1,5 +1,5 @@
 # BKFO - BK Food Orderer
-## GIỚI THIỆU
+# GIỚI THIỆU
 - Phần mềm quản lý đóng vai trò
 quan trọng trong tài chính, ngân
 hàng, giáo dục và thương mại…
@@ -8,7 +8,7 @@ hàng, giáo dục và thương mại…
 kinh tế.
 => Phần mềm quản lý dần thay
 thế cho cách quản lý truyền thống.
-### ĐẶT VẤN ĐỀ
+# ĐẶT VẤN ĐỀ
 - Quản lý nhà hàng là một quy
 trình phức tạp và gặp nhiều khó
 khăn
@@ -17,7 +17,7 @@ vụ : gọi món, đặt bàn, quản lý
 nhân viên
 - Khó nắm bắt ý kiến khách hàng
 và xu hướng…
-### LÝ DO
+# LÝ DO
 - Trong quản lý nhà hàng gồm
 nhiều chuỗi hành động và dịch vụ
 cần sự thống nhất
@@ -28,10 +28,26 @@ phục vụ khách hàng, sai sót…
 ==> Phần mềm quản lý bán hàng
 cho nhà hàng.
 
-### MỤC ĐÍCH
+# MỤC ĐÍCH
 - Hệ thống đặt đồ ăn, thanh toán cho nhà hàng:
 - Giải quyết được vấn đề nhân lực và tài chính.
 - Tăng độ chuyên nghiệp của nhà hàng trong mắt khách hàng.
 - Thuận tiện hơn với khách hàng, nhanh, dễ sử dụng và có thể yêu cầu đa
 dạng.
 - Dễ quản lý, giám sát cửa hàng tổng thể và từ xa hơn.
+# CHỨC NĂNG
+-Admin có thể quản lý  thêm/bớt đồ ăn, giá tiền, sửa đổi mặt hàng
+-Quản lý đơn hàng, xóa đơn hàng
+-Thêm bớt quản lý tài khoản
+-Dựa vào thực đơn để đặt đơn hàng mà mình mong muốn, lựa chọn phương thức thanh toán, nơi giao hàng, kèm theo chú thích, lời nhắn khiếu nại về đơn hàng của mình.
+-Có thể xóa đơn hàng 
+-Quản lý được tình trạng đơn hàng
+-Thay đổi thông tin cá nhân 
+# Tổng quan về công nghệ:
+-Front end: HTML, CSS, JavaScript
+-Back end: PHP, MySQL
+# Yêu cầu phần mềm:
+WAMP Server
+XAMPP Server
+MAMP Server
+LAMP Server
