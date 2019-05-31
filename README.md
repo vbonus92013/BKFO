@@ -43,7 +43,7 @@ dạng.
 - LAMP Server
 
 # Các bước cài đặt
-Tải xuống tệp zip và giải nén tệp trên máy chủ cục bộ của bạn. 
+- Tải xuống tệp zip và giải nén tệp trên máy chủ cục bộ của bạn. 
 - Đặt tệp này vào trong "c: / wamp / www /". 
 - Cấu hình cơ sở dữ liệu 
 
