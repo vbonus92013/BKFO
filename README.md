@@ -36,18 +36,18 @@ cho nhà hàng.
 dạng.
 - Dễ quản lý, giám sát cửa hàng tổng thể và từ xa hơn.
 # CHỨC NĂNG
--Admin có thể quản lý  thêm/bớt đồ ăn, giá tiền, sửa đổi mặt hàng
--Quản lý đơn hàng, xóa đơn hàng
--Thêm bớt quản lý tài khoản
--Dựa vào thực đơn để đặt đơn hàng mà mình mong muốn, lựa chọn phương thức thanh toán, nơi giao hàng, kèm theo chú thích, lời nhắn khiếu nại về đơn hàng của mình.
--Có thể xóa đơn hàng 
--Quản lý được tình trạng đơn hàng
--Thay đổi thông tin cá nhân 
+- Admin có thể quản lý  thêm/bớt đồ ăn, giá tiền, sửa đổi mặt hàng
+- Quản lý đơn hàng, xóa đơn hàng
+- Thêm bớt quản lý tài khoản
+- Dựa vào thực đơn để đặt đơn hàng mà mình mong muốn, lựa chọn phương thức thanh toán, nơi giao hàng, kèm theo chú thích, lời nhắn khiếu nại về đơn hàng của mình.
+- Có thể xóa đơn hàng 
+- Quản lý được tình trạng đơn hàng
+- Thay đổi thông tin cá nhân 
 # Tổng quan về công nghệ:
--Front end: HTML, CSS, JavaScript
--Back end: PHP, MySQL
+- Front end: HTML, CSS, JavaScript
+- Back end: PHP, MySQL
 # Yêu cầu phần mềm:
-WAMP Server
-XAMPP Server
-MAMP Server
-LAMP Server
+- WAMP Server
+- XAMPP Server
+- MAMP Server
+- LAMP Server
