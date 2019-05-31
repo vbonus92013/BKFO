@@ -50,11 +50,9 @@ dạng.
 2. Đặt tệp này vào trong "c: / wamp / www /". 
 3. Cấu hình cơ sở dữ liệu 
 
-Mở phpmyadmin 
-
-Tạo cơ sở dữ liệu có tên là  thực phẩm . 
-
-Nhập cơ sở dữ liệu food.sql từ thư mục đã tải xuống (bên trong cơ sở dữ liệu) 
+- Mở phpmyadmin 
+- Tạo cơ sở dữ liệu có tên là  thực phẩm . 
+- Nhập cơ sở dữ liệu food.sql từ thư mục đã tải xuống (bên trong cơ sở dữ liệu) 
 
 4. Mở Trình duyệt của bạn đặt bên trong "http://localhost/OnlineFoodorderingsystem/"
 
