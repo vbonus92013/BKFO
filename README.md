@@ -43,15 +43,17 @@ dạng.
 - LAMP Server
 
 # Các bước cài đặt
-1. Tải xuống tệp zip và giải nén tệp trên máy chủ cục bộ của bạn. 
-2. Đặt tệp này vào trong "c: / wamp / www /". 
-3. Cấu hình cơ sở dữ liệu 
+- Tải xuống tệp zip và giải nén tệp trên máy chủ cục bộ của bạn. 
+- Đặt tệp này vào trong "c: / wamp / www /". 
+- Cấu hình cơ sở dữ liệu 
 
- Mở phpmyadmin 
- Tạo cơ sở dữ liệu có tên là  thực phẩm . 
+ Mở phpmyadmin
+ 
+ Tạo cơ sở dữ liệu có tên là  thực phẩm .
+ 
  Nhập cơ sở dữ liệu food.sql từ thư mục đã tải xuống (bên trong cơ sở dữ liệu). 
 
-4. Mở Trình duyệt của bạn đặt bên trong "http://localhost/OnlineFoodorderingsystem/"
+- Mở Trình duyệt của bạn đặt bên trong "http://localhost/OnlineFoodorderingsystem/"
 
 Quản trị viên 
 
